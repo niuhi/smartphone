@@ -1,0 +1,1 @@
+Testing possibility of logging data from all sensors and later use them for navigation without GPS.
